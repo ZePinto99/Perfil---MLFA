@@ -1,0 +1,5 @@
+[1021/173654.750:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: O ficheiro de estrutura de página é demasiado pequeno para que esta operação seja concluída. (0x800705AF)
+[1021/173654.751:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1021/173654.751:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1021/173654.756:ERROR:process_info.cc(359)] UncheckedAllocate
+[1021/173654.775:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\asus\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\cff20285-b662-430c-88c5-c249da66ffeb: O sistema não conseguiu localizar o caminho especificado. (0x3)
